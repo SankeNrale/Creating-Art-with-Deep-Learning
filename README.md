@@ -21,5 +21,9 @@ Local Setup:
        Ensure that argparse, pytorch, torchvision and Pillow are installed
        (either manually, or run pip install -r requirements.txt) in the folder.
        
- 
+ ## Run the program with
+       python main.py --content png/content.png --style/style.png
+       
+       
+ ## Results
 ![alt text](https://github.com/sankenrale/Creating-Art-with-Deep-Learning/blob/master/result.jpg?raw=true)
